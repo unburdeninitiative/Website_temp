@@ -29,3 +29,10 @@
     text-align: center;
     
 }
+.text-name{
+    font-family: "Playfair Display"; 
+    color:black;
+    text-align: center;
+    font-style: italic;
+    
+}
