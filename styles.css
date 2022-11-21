@@ -38,21 +38,24 @@
 }
 
 .navbar{
-    background-color: #A6B784;
+    background-color: #ddecbf;
 }
 
 .card{
-    background-color: #A6B784;
+    background-color: #ddecbf;
 }
 .container-fluid{
-    background-color: #A6B784;
+    background-color: #ddecbf;
 }
 .row{
-    background-color: #A6B784;
+    background-color: #ddecbf;
 }
 .col-md-6{
-    background-color: #A6B784;
+    background-color: #ddecbf;
 }
 .carousel{
     display: flex;
+}
+.jumbotron{
+    background-color: #ddecbf;
 }
